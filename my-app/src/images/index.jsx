@@ -1,9 +1,27 @@
-import image1 from './1.jpg';
-import image2 from './2.jpg';
-import image3 from './3.jpg';
-import image4 from './4.jpg';
-import image5 from './5.jpg';
-import image6 from './6.jpg';
-import image7 from './7.jpg';
+import header1 from './header1.jpg';
+import header2 from './header2.jpg';
+import header3 from './header3.jpg';
+import menu1 from './menu1.jpg';
+import blog1 from './blog1.jpg';
+import blog2 from './blog2.jpg';
+import blog3 from './blog3.jpg';
+import chef1 from './chef1.jpg';
+import chef2 from './chef2.jpg';
+import chef3 from './chef3.jpg';
+import chef4 from './chef4.jpg';
+import chef5 from './chef5.jpg';
 
-export { image1, image2, image3, image4, image5, image6, image7 };
+export {
+  header1,
+  header2,
+  header3,
+  menu1,
+  blog1,
+  blog2,
+  blog3,
+  chef1,
+  chef2,
+  chef3,
+  chef4,
+  chef5,
+};
